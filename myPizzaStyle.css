@@ -1,0 +1,126 @@
+﻿body {
+    background-image:url("pizzaback.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+}
+
+
+#form1 {
+    height: 295px;
+    width: 1417px;
+    
+}
+
+.auto-style1 {
+    height: 51px;
+    width: 442px;
+    text-align: center;
+    color:lightcyan;
+}
+
+.auto-style3 {
+    height: 30px;
+    width: 194px;
+    background-color: orange;
+    border-radius: 50px;
+    color: white;
+    text-align:center;
+
+}
+
+.auto-style4 {
+    height: 30px;
+    width: 833px;
+    text-align: center;
+    color: lightcyan;
+}
+
+.auto-style4-L {
+    height: 30px;
+    width: 833px;
+    text-align: left;
+}
+
+
+.auto-style4-R {
+    height: 30px;
+    width: 833px;
+    text-align: right;
+}
+
+
+.auto-style5 {
+    width: 222px;
+}
+
+.greetings {
+    height: 30px;
+    width: 194px;
+    text-align: center;
+    color: lightcyan;
+}
+
+
+.checkout-page {
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 700;
+    color: red;
+    text-align: center;
+}
+
+.first-page-table {
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 700;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.text-box {
+    Height:23px;
+    Width:239px;
+}
+
+
+.set-lbl
+{
+    font-size:larger;
+}
+.name {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.next-btn {
+    height: 30px;
+    width: 100px;
+}
+
+
+
+
+.auto-style1-R {
+    height: 51px;
+    width: 442px;
+    text-align: right;
+    color: lightcyan;
+}
+
+.auto-style1-L {
+    height: 51px;
+    width: 442px;
+    text-align: left;
+    color: lightcyan;
+}
+
+
+.order-sum {
+    color: lightcyan;
+    font-size: Medium;
+}
